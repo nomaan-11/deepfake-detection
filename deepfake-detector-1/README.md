@@ -49,7 +49,7 @@ To train the deepfake detector model, run the following command:
 python src/training/train.py
 ```
 
-This will load the dataset, initialize the CNN model, and start the training process. The trained model will be saved as `model.h5`.
+This will load the dataset, initialize the CNN model, and start the training process. The trained model will be saved as `best_model.keras`.
 
 ## Contributing
 
